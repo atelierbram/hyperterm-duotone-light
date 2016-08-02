@@ -5,7 +5,7 @@ Duotone Light [HyperTerm](https://hyperterm.org) theme, based on the [Duotone](h
 ![screenshot of DuoTone Light colorscheme in HyperTerm](http://base2t.one/assets/img/png/screenshot-hyperterm-Base2Tone-Morning-light_693x465.png)
 
 ## Install
-Add `hyperterm-duotone-dark` to the plugins list in your `~/.hyperterm.js` config file.
+Add `hyperterm-duotone-light` to the plugins list in your `~/.hyperterm.js` config file.
 
 ### References
 - [Duotone Light Atom theme](https://github.com/simurai/duotone-light-syntax/)
