@@ -1,0 +1,24 @@
+{
+  "name": "hyperterm-duotone-light",
+  "version": "1.0.0",
+  "description": "hyperterm theme based on DuoTone light for Atom by Simurai",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atelierbram/hyperterm-duotone-light.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "light",
+    "duotone",
+    "duotones",
+    "base2Tone"
+  ],
+  "author": "Bram de Haan (http://atelierbramdehaan.nl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atelierbram/hyperterm-duotone-light/issues"
+  },
+  "homepage": "https://github.com/atelierbram/hyperterm-duotone-light#readme"
+}
